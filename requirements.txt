@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+shapely
+pgeocode
+requests
+openpyxl
+xlsxwriter
+tabulate
+jupyter

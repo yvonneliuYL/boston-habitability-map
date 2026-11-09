@@ -1,0 +1,26 @@
+ZIP,name,bus_stops,bus_routes,train_stops,train_routes,subway_stops,subway_routes,transit_score
+02108,Beacon Hill,24,29,29,7,18,3,8.74
+02109,Downtown,22,26,24,7,18,3,7.95
+02110,Financial District,21,29,17,17,14,3,7.99
+02111,Chinatown,11,21,20,16,12,2,6.68
+02113,North End,24,37,21,10,14,2,8.37
+02114,West End,13,35,14,10,6,2,6.14
+02115,Fenway/Kenmore,39,38,41,9,2,1,10.0
+02116,Back Bay,17,24,14,10,2,1,5.21
+02118,South End,4,8,0,0,0,0,0.81
+02119,Roxbury,10,11,11,5,6,1,3.5
+02120,Mission Hill,21,21,22,5,6,1,5.91
+02121,Dorchester,2,1,2,3,0,0,0.65
+02122,Dorchester,11,7,11,2,6,1,3.02
+02124,Dorchester,17,8,19,5,4,1,4.31
+02125,Dorchester,10,17,9,7,6,1,3.91
+02126,Mattapan,9,3,10,4,0,0,2.08
+02127,South Boston,5,15,4,1,4,1,2.26
+02128,East Boston,12,12,6,1,6,1,2.89
+02129,Charlestown,2,3,2,1,2,1,0.88
+02130,Jamaica Plain,9,10,9,4,7,1,3.18
+02131,Roslindale,5,2,1,1,0,0,0.65
+02132,West Roxbury,10,2,3,1,0,0,1.17
+02134,Allston,16,14,18,2,0,0,3.84
+02135,Brighton,32,27,38,4,0,0,7.79
+02136,Hyde Park,4,4,6,3,0,0,1.35

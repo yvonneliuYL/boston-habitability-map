@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+~$*
+# large raw inputs (download separately, see README)
+boston_crime_data.csv
+MBTA_GTFS.zip
+MBTA_data/
+population_density.xlsx
+population_density_whole_download_file/
+*.zip
